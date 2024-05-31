@@ -1,0 +1,5 @@
+node_modules/
+public/
+header.ejs 
+footer.ejs 
+about.ejs
